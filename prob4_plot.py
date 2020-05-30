@@ -1,3 +1,8 @@
+'''
+coded by: rakeeb
+coded for: plotting data of prob4.c
+'''
+
 import numpy as np 
 import matplotlib.pyplot as plt 
 
