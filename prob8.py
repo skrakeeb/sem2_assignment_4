@@ -1,3 +1,8 @@
+'''
+coded by: rakeeb
+coded for: determining area of unit circle and volume of 10d sphere
+'''
+
 import numpy as np 
 
 
