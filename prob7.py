@@ -11,7 +11,7 @@ from scipy.stats import chi2
 score = np.arange(2,13,1)
 obs_count1 = np.array([4, 10, 10, 13, 20, 18, 18, 11, 13, 14, 13])
 obs_count2 = np.array([3, 7, 11, 15, 19, 24, 21, 17, 13, 9, 5])
-expected_np = np.array([4, 8, 12, 16, 20, 24, 20, 16, 12, 8, 4])
+expected_np = np.array([4, 8, 12, 16, 20, 24, 20, 16, 12, 8, 4])  # n*p, where p is the probability
 
 # evaluation of V:
 V1 = 0
